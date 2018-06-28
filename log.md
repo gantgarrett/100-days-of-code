@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 28th 2018 (Example 1)
-##### (delete me or comment me out)
 
 **Today's Progress**: Tried out FreeCodeCamp.org, got bored and started dabbling with Python. Fiddling around with mean, median and mode functions that are part of the Python library. I'm doing so becaue I am currently taking statistics.
 

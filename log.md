@@ -7,8 +7,7 @@
 **Thoughts:** I struggled with remembering syntax of Python but nothing a little Google searching can't do.
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: June 29th, 2018 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 

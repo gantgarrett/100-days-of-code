@@ -9,9 +9,9 @@
 
 ### Day 2: June 29th, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Currently reading "Automate the Boring Stuff With Python" to understand the Python language better. I am understanding the language but there are concepts I'm still trying to wrap my head around like nested for loops and being able to manipulate lists and tuples. The author includes coding exercises after each chapter so I attempt them but I end up not finding my answer in the book so I do some Google searching to see what others have done. It helps bring context to the exercises. It feels like I spoil the fun of figuring out the programs myself but there's no way I could come up with the code myself quiet yet... yet.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Python is flexible and easy to read compared to most languages I have worked with. If I keep practicing (which is why I'm donig 100-days-of-code) I know I will become fluent in the language.
 
 
 

@@ -13,6 +13,12 @@
 
 **Thoughts**: Python is flexible and easy to read compared to most languages I have worked with. If I keep practicing (which is why I'm donig 100-days-of-code) I know I will become fluent in the language.
 
+### Day 3: June 30th, 2018
+
+**Today's Progress**: I went on codeacademy.com to work on SQL. I find SQL interesting because it is database organization which peaks my interest. I completed the exercises and took the multiple choice quiz and received an 83% on the quiz which is okay. I learned how to manipulate searches by giving certain parameters to the search. Clauses such as: WHERE, LIKE, CASE, LIMIT, ORDER BY, etc are all used to narrow down searchs and to speed up search times. SQL is fun because I like manipulating data and seeing results. :)
+
+**Thoughts**: Today, I did not want to read a whole chapter in my book then start to code, so I just went on codeacademy.com to quickly start coding. It is a helpful website and it makes learning new languages less daunting. Whenever I heard someone speak of SQL I was immediately intimidated but there is no reason to be. I am on this journey to learn and I can't let any mental blocks deter me from my goals. My goals are to have enough knowledge in computer programming to be employeable. I know I will be a great asset to a company someday.
+
 
 
 

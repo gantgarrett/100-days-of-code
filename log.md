@@ -5,6 +5,7 @@
 **Today's Progress**: Tried out FreeCodeCamp.org, got bored and started dabbling with Python. Fiddling around with mean, median and mode functions that are part of the Python library. I'm doing so becaue I am currently taking statistics.
 
 **Thoughts:** I struggled with remembering syntax of Python but nothing a little Google searching couldn't do.
+**Link:** https://github.com/gantgarrett/Projects/blob/master/meanmedianmode.py
 
 
 ### Day 2: June 29th, 2018

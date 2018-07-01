@@ -26,3 +26,8 @@
 
 **Thoughts**: I can feel myself becoming better already. It's only been four days but I've been having a fun time coding. There are still concepts I'm trying to wrap my head around like dictionaries and lists but I am a lot less perplexed with those ideas. Onward.
 
+**Link:** https://github.com/gantgarrett/Projects/blob/master/tictactoe.py
+**Link:** 
+
+
+

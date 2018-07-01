@@ -21,34 +21,7 @@
 
 ### Day 4: July 1st, 2018
 
-**Today's Progress**: Reading "How To Automate the Boring Stuff With Python". It's a great book. Today I read chapter 5 which is about dictionaries. The author had me code a tic-tac-toe game using dictionaries and it made perfect sense. The game board was a data structure and the computer knows how to interpret it because I gave it the parameters to do so. Then I coded an inventory list and printed how many total items in the inventory as well as the quantity of each item.
-
-stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12} #dictionary for the inventory
-
-def displayInventory(inventory): #function that takes inventory as a parameter
-	print("Inventory:")
-	item_total = 0
-	for k, v in inventory.items(): 
-		print(str(v) + ' ' + k) #str(v) is the value of the key and 'k' is the key
-		item_total += v #sum of all the values in dictionary
-	print("Total number of items: " + str(item_total)) #prints total number of items
-
-displayInventory(stuff)
-
-The author also had me coding an add to inventory function:
-
-def addToInventory(inventory, addedItems):
-	for i in range(len(addedItems)):
-		inventory.setdefault(addedItems[i], 0) #creates a new item in dictionary with setdefault
-		inventory[addedItems[i]] = inventory[addedItems[i]]+1	
-	return inv
-
-inv = {'gold coin': 42, 'rope': 1}
-dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
-inv = addToInventory(inv, dragonLoot)
-displayInventory(inv)
-
-Good day of coding so far.
+**Today's Progress**: Reading "How To Automate the Boring Stuff With Python". It's a great book. Today I read chapter 5 which is about dictionaries. The author had me code a tic-tac-toe game using dictionaries and it made perfect sense. The game board was a data structure and the computer knows how to interpret it because I gave it the parameters to do so. Then I coded an inventory list and printed how many total items in the inventory as well as the quantity of each item. Good day of coding so far.
 
 **Thoughts**: I can feel myself becoming better already. It's only been four days but I've been having a fun time coding. There are still concepts I'm trying to wrap my head around like dictionaries and lists but I am a lot less perplexed with those ideas. Onward.
 

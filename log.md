@@ -30,5 +30,11 @@
 
 **Link:** https://github.com/gantgarrett/Projects/blob/master/fantasygameinventory.py
 
+### Day 5: July 2nd, 2018
+
+**Today's Progress**: Wow, I'm dabbling with data visualization and I'm having a blast. I read data from an excel sheet and started plotting points on a graph with ease. I'm using Jupyter Notebook for all my data visualization work and so far it's so fun for me. My favorite subreddit is r/dataisbeautiful. I can't wait to start conducting my own experiments and graphing the data.
+
+**Thoughts:** Data Analysis intrigues me. I'm going to keep practicing with Jupyter Notebook and Python because it has been so user-friendly so far. My graphs will become more in depths and pretty and it just makes me gitty thinking about it all. It's only been 5 days and I'm going to be a data expert by the end of this journey! There are no links to projects today because I was just tinkering with the software.
+
 
 

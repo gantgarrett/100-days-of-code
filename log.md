@@ -36,5 +36,9 @@
 
 **Thoughts:** Data Analysis intrigues me. I'm going to keep practicing with Jupyter Notebook and Python because it has been so user-friendly so far. My graphs will become more in depths and pretty and it just makes me gitty thinking about it all. It's only been 5 days and I'm going to be a data expert by the end of this journey! There are no links to projects today because I was just tinkering with the software.
 
+### Day 6: July 3rd, 2018
 
+**Today's Progress:** This morning I played around with Seaborn. It is a Python library for making interesting looking graphs. Today I used ViolinPlot to graph heart pulse by the amount of time rest. I'm amazed on how quick and painless it is with Python to create very interesting looking graphs! I was getting stuck but I used Google and Youtube videos to figure it out (for the most part).
+
+**Thoughts:** Python is such a powerful language. I like being able to record data and then plot points. I have always liked collecting data but now since I know how easy it is to graph data in cool new interesting ways, I literally want to record everything and graph it. More to come. No GitHub link to the project yet because I'm trying to figure out how to push Jupyter Notebook files to GitHub.
 

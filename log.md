@@ -42,3 +42,10 @@
 
 **Thoughts:** Python is such a powerful language. I like being able to record data and then plot points. I have always liked collecting data but now since I know how easy it is to graph data in cool new interesting ways, I literally want to record everything and graph it. More to come. No GitHub link to the project yet because I'm trying to figure out how to push Jupyter Notebook files to GitHub.
 
+### Day 7: July 4th, 2018
+
+**Today's Progress:** What a morning it was. I woke up around 8am and started coding around 8:30am and it is now 3:22pm and I have finially finished my little data visualization project. I went through each of 21 Savages Albums and recorded how many times he says the words, "Dick" and "Pussy" in his songs because it's like every time I hear a 21 Savage song, those words are the most reoccuring throughout! So I did a little experimenting and this is what I came up with.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/21SavageLyricData.ipynb
+
+**Thought:** It was a blast recording this data. I realize I could be recording more valueable data but why not do this for fun?! More data viz projects to come!

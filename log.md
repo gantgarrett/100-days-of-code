@@ -48,4 +48,12 @@
 
 **Link:** https://github.com/gantgarrett/Projects/blob/master/21SavageLyricData.ipynb
 
-**Thought:** It was a blast recording this data. I realize I could be recording more valueable data but why not do this for fun?! More data viz projects to come!
+**Thoughts:** It was a blast recording this data. I realize I could be recording more valueable data but why not do this for fun?! More data viz projects to come!
+
+### Day 8: July 5th, 2018
+
+**Today's Progress:** Okay so I decided to mess around with more data visualization stuff. Today I struggle more. I'm trying to work with the actual Seaborn born library but my graphs still just look like standard matplotlib graphs. I want my graphs more elaborate and easy to look at. I'm understanding Jupyter Notebook a lot more and now all I want to do is graph data. I have a link to the project I worked on today.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/LotteryGameStatistics.ipynb
+
+**Thoughts:** I'm becoming more fluent in writing code. I'm starting to understand the syntax so much more just by analyzing other's work. And by analyzing other's work, I can manipulate my own code to work around the template of their work. It is great fun!

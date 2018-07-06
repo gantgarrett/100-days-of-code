@@ -52,8 +52,16 @@
 
 ### Day 8: July 5th, 2018
 
-**Today's Progress:** Okay so I decided to mess around with more data visualization stuff. Today I struggle more. I'm trying to work with the actual Seaborn born library but my graphs still just look like standard matplotlib graphs. I want my graphs more elaborate and easy to look at. I'm understanding Jupyter Notebook a lot more and now all I want to do is graph data. I have a link to the project I worked on today.
+**Today's Progress:** Okay so I decided to mess around with more data visualization stuff. Today I struggled more. I'm trying to work with the actual Seaborn library but my graphs still just look like standard matplotlib graphs. I want my graphs more elaborate and easy to look at. I'm understanding Jupyter Notebook a lot more and now all I want to do is graph data. I have a link to the project I worked on today.
 
 **Link:** https://github.com/gantgarrett/Projects/blob/master/LotteryGameStatistics.ipynb
 
 **Thoughts:** I'm becoming more fluent in writing code. I'm starting to understand the syntax so much more just by analyzing other's work. And by analyzing other's work, I can manipulate my own code to work around the template of their work. It is great fun!
+
+### Day 9: July 6th, 2018
+
+**Today's Progress:** I was up past midnight coding so the progress I did then counts for now even though I slept. So, I'm still trying to figure out how to use my own dataframes in seaborn. I can only use the given dataframes from seaborn's github for some reason. Seaborn is not letting me import my own csv files. It's getting me frustrated. And all the tutorials I'm watching they are using Seaborn's github files too! It's like dang, how am I supposed to get my own data on there? I know how to read_csv file from the pandas library but not Seaborn. I'll figure it out though. So here is a project from Seaborn's github dataset.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/AirplaneStatistics.ipynb
+
+**Thoughts:** We are living in an information-based world and it makes perfect sense to collect that information and to make visualizations for the evaluated data. It has been really intriguing for me so far. All I want to do is consume data...

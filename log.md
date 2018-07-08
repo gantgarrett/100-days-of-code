@@ -65,3 +65,9 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/AirplaneStatistics.ipynb
 
 **Thoughts:** We are living in an information-based world and it makes perfect sense to collect that information and to make visualizations for the evaluated data. It has been really intriguing for me so far. All I want to do is consume data...
+
+### Day 10: July 7th, 2018
+
+**Today's Progress:** I am at Nathan's new house in Venice Beach. Nathan, John, and I all were working on hackerrank.com to brush up on coding. I'm getting better but there is still so much I have to learn. I'm all aboard the coding train though. No link today.
+
+**Thoughts:** It seems as if I'm in a mild coding rut. I need to get out of it somehow.

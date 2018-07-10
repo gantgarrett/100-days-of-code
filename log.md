@@ -71,3 +71,11 @@
 **Today's Progress:** I am at Nathan's new house in Venice Beach. Nathan, John, and I all were working on hackerrank.com to brush up on coding. I'm getting better but there is still so much I have to learn. I'm all aboard the coding train though. No link today.
 
 **Thoughts:** It seems as if I'm in a mild coding rut. I need to get out of it somehow.
+
+### Day 11: July 9th, 2018
+
+**Today's Progress:** So I whipped up some data by playing Counter Strike: Global Offensive. I logged my kills and my deaths for each game played and graphed the results using Python and Jupyter Notebook. The data is pretty boring and uneventful. I have no clue why I even wanted to graph the kill/death ratio. I think it's because I wanted an excuse to play CS:GO and an excuse to graph data. I'm short on ideas as of late as to what I actually want to work on for my next big project. An idea will come to me though soon enough. This is only day 11.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/CSGOstats7-9-18.ipynb
+
+**Thoughts:** So my coding skills have drastically increased compared to my coding skills from a couple days ago. I think I made the graph in 3 minutes as oppossed to 5+ hours with my 21 Savage lyric graph. I now need to work on a bigger more meaningful project. I need practical data to plot.

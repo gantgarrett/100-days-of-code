@@ -79,3 +79,11 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/CSGOstats7-9-18.ipynb
 
 **Thoughts:** So my coding skills have drastically increased compared to my coding skills from a couple days ago. I think I made the graph in 3 minutes as oppossed to 5+ hours with my 21 Savage lyric graph. I now need to work on a bigger more meaningful project. I need practical data to plot.
+
+### Day 12: July 10th, 2018
+
+**Today's Progress:** Decided to make a calculator (like I tend to do) for my statistics class. It's a Poisson Probability Calculator which asks for the mean of the rate of occurence and the number of occurences and it will produce the percentage of reaching those numbers. So, I see it working for tons of applications. Like I can calculate the probability of me getting 20 kills per game in CS:GO then graph it. I don't know, but designing calculators helps me remember the formulas so that's why I'm making them.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/poissonprobabilitycalc.py
+
+**Thoughts:** I made the calculator pretty fast. I'm understanding Python a lot more. I'm proud of this calculator but it has been made many times before. At this point I'm just brushing and practicing for the next big project.

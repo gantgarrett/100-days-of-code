@@ -87,3 +87,9 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/poissonprobabilitycalc.py
 
 **Thoughts:** I made the calculator pretty fast. I'm understanding Python a lot more. I'm proud of this calculator but it has been made many times before. At this point I'm just brushing and practicing for the next big project.
+
+### Day 13: July 11th, 2018
+
+**Today's Progress:** Not much coding was done today. Being a student and not having a laptop makes it hard to actually work on practical projects while on the go. I need to invest in a laptop. Anyway, I'm reading all about web scraping. My next project will be a web scraping project looking into a certain dataset. The program will scrape the website and return valuable information from it. I then plan on using the info to plot graphs.
+
+**Thoughts:** Even though I didn't do coding as much as I would have liked to today, the project ideas are what counts.

@@ -93,3 +93,9 @@
 **Today's Progress:** Not much coding was done today. Being a student and not having a laptop makes it hard to actually work on practical projects while on the go. I need to invest in a laptop. Anyway, I'm reading all about web scraping. My next project will be a web scraping project looking into a certain dataset. The program will scrape the website and return valuable information from it. I then plan on using the info to plot graphs.
 
 **Thoughts:** Even though I didn't do coding as much as I would have liked to today, the project ideas are what counts.
+
+### Day 14: July 12th, 2018
+
+**Today's Progress:** Been viciously busy with school so it was hard finding time to code. I Twitter account though to hold myself accountable for 100 Days of Code. I would like to think making a Twitter Bot that retweets and favorites other tweets is code but it was hardly code at all, still code none-the-less. I also worked on some JavaScript which resembles C++ to me. I'm going to work on more data viz stuff with Python tomorrow morning.
+
+**Thoughts:** So far so good with this challenge. I'mm learning so much and involving myself with such a supportive community. Coding's great!

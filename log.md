@@ -99,3 +99,9 @@
 **Today's Progress:** Been viciously busy with school so it was hard finding time to code. I Twitter account though to hold myself accountable for 100 Days of Code. I would like to think making a Twitter Bot that retweets and favorites other tweets is code but it was hardly code at all, still code none-the-less. I also worked on some JavaScript which resembles C++ to me. I'm going to work on more data viz stuff with Python tomorrow morning.
 
 **Thoughts:** So far so good with this challenge. I'mm learning so much and involving myself with such a supportive community. Coding's great!
+
+### Day 15: July 13, 2018
+
+**Today's Progress:** Started to parse through the chessgames.csv. I'm trying to find a correlation between the opening ecosystem and who wins. But I'm having trouble because when I parse through a certain parameter, I cannot parse through the newly created dataset. For instance, the opening ecosystem is D10, it gives me a new dataset with only D10 as the ecosystem. How can I take this new dataset and parse through it to see who won? That is what I'm having trouble with. I got my 1 hour+ in today. In the mean time, I'm playing two shows tonight with my band, so maybe I can collect some data then. Like how many people are at each show? Then graph the results. It could be cool!
+
+**Thoughts:** I have to keep reminding myself to not get frustrated. Coding is hard. I'm just now diving in very deep now so I need to be patient with myself and were I'm at as a programmer. I know there is greatness right around the corner. I need to be persistent and diligent with my work and try my best. But now I have to get ready to rehearse with my band. We're covering Black Flag sooooo.

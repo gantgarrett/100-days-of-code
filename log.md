@@ -105,3 +105,11 @@
 **Today's Progress:** Started to parse through the chessgames.csv. I'm trying to find a correlation between the opening ecosystem and who wins. But I'm having trouble because when I parse through a certain parameter, I cannot parse through the newly created dataset. For instance, the opening ecosystem is D10, it gives me a new dataset with only D10 as the ecosystem. How can I take this new dataset and parse through it to see who won? That is what I'm having trouble with. I got my 1 hour+ in today. In the mean time, I'm playing two shows tonight with my band, so maybe I can collect some data then. Like how many people are at each show? Then graph the results. It could be cool!
 
 **Thoughts:** I have to keep reminding myself to not get frustrated. Coding is hard. I'm just now diving in very deep now so I need to be patient with myself and were I'm at as a programmer. I know there is greatness right around the corner. I need to be persistent and diligent with my work and try my best. But now I have to get ready to rehearse with my band. We're covering Black Flag sooooo.
+
+### Day 16: July 14th, 2018
+
+**Today's Progress:** I had my friends help me get a head count at each one of my band's gigs. My band played two shows in one night on 7/13/18. I wanted to collect data on why people attend. The house show had more people there because there was drugs and alcohol involved. The venue we played at does not allow for drugs or alcohol so there were 24 people there. The crowd reaction at the house show was cool but the venue was much more intimate and we met some cool bands that are from out of the country! Needless to say, last night was great fun. To me, it doesn't matter if 1 person is watching our set or 100, at least we are playing music. Here is the graph:
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/RECLAIM.ipynb
+
+**Thoughts:** I had some trouble initially trying to graph this thing. I now know you don't always need to read from a .csv file. If the dataset is small enough, you can just input the numbers yourself. I like being able to collect data even if it's something small like this... we are able to visualize correlations for sure!

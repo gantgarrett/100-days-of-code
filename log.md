@@ -119,3 +119,9 @@
 **Today's Progress:** I was curious about Disney World's ticket price increase over the years (just to graph something...). The graph showed an exponential increase. I want to add another line showing the cost of living compared to the ticket prices increasing. It should show interesting results. I also want to make more diverse graphs. I need more interesting data to collect!
 
 **Thoughts:** I plan on adding the second line to the graph tomorrow morning. Correlation between cost of living and ticket increase? I think so! Right now I'm beat because I just drove with Kameron to LAX to pick up his parents from the airport. I finished that graph on his laptop on the car ride down though. It was fun!
+
+### Day 18: July 16th, 2018
+
+**Today's Progress:** Woke up at 5:30am and started coding at 6:00am. I gathered more data for my graph. I graphed minimum wage and 2017 inflation prices on the cost of tickets from 1971 to 2017. I don't know it was just an idea in my head. Now it has been graphed and it's visually easy to look at. The ticket prices have gone up so exponentially compared to minimum wage, it's very interesting to look at. That means Disney World is doing well to keep prices rising each year. Intriguing data indeed.
+
+**Thoughts:** This is fun and all but not technically challenging. It is fun to collect data and graph it using Python but I'm wanting to build some tools now. Practical applications. Trying to figure that one out though.

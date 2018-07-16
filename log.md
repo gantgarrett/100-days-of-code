@@ -124,4 +124,6 @@
 
 **Today's Progress:** Woke up at 5:30am and started coding at 6:00am. I gathered more data for my graph. I graphed minimum wage and 2017 inflation prices on the cost of tickets from 1971 to 2017. I don't know it was just an idea in my head. Now it has been graphed and it's visually easy to look at. The ticket prices have gone up so exponentially compared to minimum wage, it's very interesting to look at. That means Disney World is doing well to keep prices rising each year. Intriguing data indeed.
 
+**Link:** https://github.com/gantgarrett/Projects/blob/master/disneyworldstats.ipynb
+
 **Thoughts:** This is fun and all but not technically challenging. It is fun to collect data and graph it using Python but I'm wanting to build some tools now. Practical applications. Trying to figure that one out though.

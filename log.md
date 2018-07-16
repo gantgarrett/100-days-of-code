@@ -113,3 +113,9 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/RECLAIM.ipynb
 
 **Thoughts:** I had some trouble initially trying to graph this thing. I now know you don't always need to read from a .csv file. If the dataset is small enough, you can just input the numbers yourself. I like being able to collect data even if it's something small like this... we are able to visualize correlations for sure!
+
+### Day 17: July 15th, 2018
+
+**Today's Progress:** I was curious about Disney World's ticket price increase over the years (just to graph something...). The graph showed an exponential increase. I want to add another line showing the cost of living compared to the ticket prices increasing. It should show interesting results. I also want to make more diverse graphs. I need more interesting data to collect!
+
+**Thoughts:** I plan on adding the second line to the graph tomorrow morning. Correlation between cost of living and ticket increase? I think so! Right now I'm beat because I just drove with Kameron to LAX to pick up his parents from the airport. I finished that graph on his laptop on the car ride down though. It was fun!

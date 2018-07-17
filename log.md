@@ -127,3 +127,9 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/disneyworldstats.ipynb
 
 **Thoughts:** This is fun and all but not technically challenging. It is fun to collect data and graph it using Python but I'm wanting to build some tools now. Practical applications. Trying to figure that one out though.
+
+### Day 19: July 17th, 2018
+
+**Today's Progress:** Woke up at 6:00am and started coding around 6:45am. It is now 8:25am and I successfully understand web scraping. I watched a tutorial video and followed along with instructions and I parsed through graphics cards on newegg.com and then wrote the results on a .csv file. Then with the .csv file I can graph the results and much more. Python is such a powerful tool. I'm having fun webscraping, the whole internet is now my database!
+
+**Thoughts:** I accidentally erased the damn script so I'm going to have to practice on other websites now. It isn't hard at all, just looking through HTML text and then you have to use the Python to specify what you want to find. Make a for loop and... BANG! Website scraped! I would post it to my github but like I said it has been erased... Continuing to webscrape though for sure. Data collection can be so fast and seemless.

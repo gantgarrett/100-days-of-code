@@ -139,3 +139,11 @@
 **Today's Progress:** Started more web scraping. Was going to webscrape a comic book store website but it seems kind of useless. I am understanding the concept of webscraping more thoroughly though. It's just a really efficient way of parsing through data that you would like to put into an even more organized format.
 
 **Thoughts:** Going to work on more web scraping tomorrow.
+
+### Day 21: July 19th, 2018
+
+**Today's Progress:** Yooooooooooo, finished my first web scraper! I'm pretty pumped. I went through some struggles but I eventually figured it out. It was fun parsing through HTML and extracting data. A script will automatically get everything updated too. The webpage of course does not have every single comic book release on one page so I need to figure out how to tell the script to search other pages as well.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/comixwebscraper.py
+
+**Thoughts:** This is so great. I had no idea I had this potential to do this and with relative ease! I'm excited to see where it takes me!

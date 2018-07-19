@@ -133,3 +133,9 @@
 **Today's Progress:** Woke up at 6:00am and started coding around 6:45am. It is now 8:25am and I successfully understand web scraping. I watched a tutorial video and followed along with instructions and I parsed through graphics cards on newegg.com and then wrote the results on a .csv file. Then with the .csv file I can graph the results and much more. Python is such a powerful tool. I'm having fun webscraping, the whole internet is now my database!
 
 **Thoughts:** I accidentally erased the damn script so I'm going to have to practice on other websites now. It isn't hard at all, just looking through HTML text and then you have to use the Python to specify what you want to find. Make a for loop and... BANG! Website scraped! I would post it to my github but like I said it has been erased... Continuing to webscrape though for sure. Data collection can be so fast and seemless.
+
+### Day 20: July 18th, 2018
+
+**Today's Progress:** Started more web scraping. Was going to webscrape a comic book store website but it seems kind of useless. I am understanding the concept of webscraping more thoroughly though. It's just a really efficient way of parsing through data that you would like to put into an even more organized format.
+
+**Thoughts:** Going to work on more web scraping tomorrow.

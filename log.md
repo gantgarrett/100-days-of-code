@@ -147,3 +147,15 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/comixwebscraper.py
 
 **Thoughts:** This is so great. I had no idea I had this potential to do this and with relative ease! I'm excited to see where it takes me!
+
+### Day 22: July 23rd, 2018
+
+**Today's Progress:** So it has been a wonderful weekend. I got a break from coding and school and visited my friend Nathan in Venice with my companion and lover, Jackie. I do all of my projects on my PC at home so I had literally no access to my computer. But it is okay to go out and party every now and again! I tried making an eBay webscraper but could not figure out how to loop through each container on the page. The page is divided into containers of 24 and the first 24 containers of items are the only items that are being picked up and not the whole page of 100 items. Something I will have to figure out to negate.
+
+**Thoughts:** I will continue more webscraping exercises later.
+
+### Day 23: July 24th, 2018
+
+**Today's Progress:** Understanding the R language a lot better. Watched a tutorial video on the subject and I am able to figure out the commands and syntax with relative ease. Looking at code has become so much easier. I'm exposing myself to as many languages as I can because it does not hurt to be diverse, like at all. As of right now though, I'm sort of in a coder's block. I have many projects cycling through my head it's just being able to expell them now. I need to focus on one thing generally. Data Viz is right up my alley though so I would like to continue to practice with R.
+
+**Thoughts:** Okay, I'm going to dedicate some more time to learning R but as of right now, I still have school to go to today, I'm trying to move out of my mom's house, I'm actively looking for a job, and I'm working on becoming a better person who is less anxious and quiet. I don't like being anxious or quiet.

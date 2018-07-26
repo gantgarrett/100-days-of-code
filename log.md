@@ -159,3 +159,17 @@
 **Today's Progress:** Understanding the R language a lot better. Watched a tutorial video on the subject and I am able to figure out the commands and syntax with relative ease. Looking at code has become so much easier. I'm exposing myself to as many languages as I can because it does not hurt to be diverse, like at all. As of right now though, I'm sort of in a coder's block. I have many projects cycling through my head it's just being able to expell them now. I need to focus on one thing generally. Data Viz is right up my alley though so I would like to continue to practice with R.
 
 **Thoughts:** Okay, I'm going to dedicate some more time to learning R but as of right now, I still have school to go to today, I'm trying to move out of my mom's house, I'm actively looking for a job, and I'm working on becoming a better person who is less anxious and quiet. I don't like being anxious or quiet.
+
+### Day 24: July 25th, 2018
+
+**Today's Progress:** Graphed some more data using R. I'm getting stuck with making actual correletions. I need to watch more tutorial videos.
+
+**Thoughts:** Trying to just come up with projects my dude.
+
+### Day 25: july 26th, 2018
+
+**Today's Progress:** R is easier than I thought. The code is so easy to add layers. You literally just use a + sign to add any additional layer. I've downloaded data sets from Kaggle now I just need to put them to good use. I tried seeing a correlation between raising your hand in class and if you go to discussion meets... lol looked like no correlation at all. But I did see a correlation that if the student raises their hand, the parent's schools happiness is better. I'm going to continue my studies in this field. It is very interesting.
+
+**Link:** https://twitter.com/Garrtacular7/status/1022500989775953920
+
+**Thoughts:** R is easier than Python to graph but Python is easier to extract certain parts of the data that you need. I don't think R has parameter functions to parse through certain cells in the data set. I may be wrong. The graphs in R look more professional though as oppossed the Python graphs in matplotlib. I need to figure out how to graph ill ass sets though. Violin plot my homie...

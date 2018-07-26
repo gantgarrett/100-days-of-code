@@ -164,6 +164,8 @@
 
 **Today's Progress:** Graphed some more data using R. I'm getting stuck with making actual correletions. I need to watch more tutorial videos.
 
+**Link:** https://twitter.com/Garrtacular7/status/1022259701256310784
+
 **Thoughts:** Trying to just come up with projects my dude.
 
 ### Day 25: july 26th, 2018

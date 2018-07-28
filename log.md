@@ -168,10 +168,24 @@
 
 **Thoughts:** Trying to just come up with projects my dude.
 
-### Day 25: july 26th, 2018
+### Day 25: July 26th, 2018
 
 **Today's Progress:** R is easier than I thought. The code is so easy to add layers. You literally just use a + sign to add any additional layer. I've downloaded data sets from Kaggle now I just need to put them to good use. I tried seeing a correlation between raising your hand in class and if you go to discussion meets... lol looked like no correlation at all. But I did see a correlation that if the student raises their hand, the parent's schools happiness is better. I'm going to continue my studies in this field. It is very interesting.
 
 **Link:** https://twitter.com/Garrtacular7/status/1022500989775953920
 
 **Thoughts:** R is easier than Python to graph but Python is easier to extract certain parts of the data that you need. I don't think R has parameter functions to parse through certain cells in the data set. I may be wrong. The graphs in R look more professional though as oppossed the Python graphs in matplotlib. I need to figure out how to graph ill ass sets though. Violin plot my homie...
+
+### Day 26: July 27th, 2018
+
+**Today's Progress:** Listened to the Data Scientist Podcast and I loved it. It got me start reading R for Data Science and it is a really helpful book so far. I graphed their sample data set of mpg. 
+
+**Thoughts:** More R, more R, more R.
+
+### Day 27: July 28th, 2018
+
+**Today's Progress:** I scavenged the internet for data sets that I can mess around with. I choose NASA because I love space. Their was a data set about the landings of meteorites so I decided to graph the year vs the mass. It's not a huge correlation between the two but it was interesting to see that only a few cases were the outliers. 
+
+**Link:** https://twitter.com/Garrtacular7/status/1023316614924525568
+
+**Thoughts:** I'm loving R. I just need to mess around with it more and collect more valuable data.

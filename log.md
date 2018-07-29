@@ -189,3 +189,11 @@
 **Link:** https://twitter.com/Garrtacular7/status/1023316614924525568
 
 **Thoughts:** I'm loving R. I just need to mess around with it more and collect more valuable data.
+
+### Day 28: July 29th, 2018
+
+**Today's Progress:** I need to study data more. I understand how to come across the correlations, it's just being able to code and graph the correlations now. I keep getting errors and can't wrap my head around certain concepts in R quite yet. It's so fun going through different data sets and graphing them. I love data viz. Today, I was having coders block so I couldn't figure out what to make but I ended up just graphing if there's a correlation between raising your hand in class and then visiting outside resources. Not much of a correlation and sort of uninteresting data but hey it worked.
+
+**Link:** https://twitter.com/Garrtacular7/status/1023615480949403648
+
+**Thoughts:** I'm going to have to take my R skills to the next level but I'm content with where I am now compared to where I was a week ago which was no where... lol.

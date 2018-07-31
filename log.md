@@ -197,3 +197,15 @@
 **Link:** https://twitter.com/Garrtacular7/status/1023615480949403648
 
 **Thoughts:** I'm going to have to take my R skills to the next level but I'm content with where I am now compared to where I was a week ago which was no where... lol.
+
+### Day 29: July 30th, 2018
+
+**Today's Progress:** Web scraping Youtube.
+
+**Thoughts:** Working on a webscraper for Youtube.
+
+### Day 30: July 31st, 2018
+
+**Today's Progress:** Continued to work on the Youtube webscraper to scrape every hour the live view count of lofi hip hop radio. LOL I think it's such a fun idea. I just need to extract the live view count in the python script and boom... hella graphable data. It's just a fun project but then I can start making correlations by time of day and day of the week and all that good stuff.
+
+**Thoughts:** Diving deeper into Python and webscraping. It is a lot of fun but frustrating when I'm not getting direct results. There is seriously only one element I need to extract and I'm having trouble with that. Will work on it later though.

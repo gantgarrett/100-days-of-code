@@ -215,3 +215,11 @@
 **Today's Progress:** Could not figure out how to make the Youtube scraper. I think they have already thought of people trying to scrape their website so they put blocks on it or something. So then I moved on to Twitch to see if I could actively scrape the viewship of the top games. Could not scrape the containers and that is seriously all I need! Then I tried going to newegg and scraping their website for graphics cards and boom! It works but I have already done that! It also worked on the comic book site too but not the big name website for some reason. I'm getting hella annoyed because I know how to scrape but the website or something is blocking me from doing it.
 
 **Thoughts:** I will continue to web scrape but I want valueble info scraped. There are plenty of websites I can scrape though. I just need to find something interesting. I haven't posted a project on github in a cool minute and that needs to change. I just haven't been able to complete any projects lately. :( There's been blockages.
+
+### Day 32: August 2nd, 2018
+
+**Today's Progress:** Finished the newegg webscraper. I'm very familiar with how to scrape now. It is not hard at all, it's just telling the Python script what to look for. It's actually a lot of fun when it starts working. Now, gather data on the standard deviation of price drops throughout the week would be interesting!
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/neweggwebscraper.py
+
+**Thoughts:** I have many more plans on webscraping. This has just been practice but I am able to understand it very quickly. I know how to analyze HTML but I don't know how to write it. I'm more interested in collecting data and parsing it anyway than making websites, although I know I can make a website easily. So far Python has not let me down with its very flexible design! More Python to come homies.

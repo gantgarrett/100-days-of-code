@@ -209,3 +209,9 @@
 **Today's Progress:** Continued to work on the Youtube webscraper to scrape every hour the live view count of lofi hip hop radio. LOL I think it's such a fun idea. I just need to extract the live view count in the python script and boom... hella graphable data. It's just a fun project but then I can start making correlations by time of day and day of the week and all that good stuff.
 
 **Thoughts:** Diving deeper into Python and webscraping. It is a lot of fun but frustrating when I'm not getting direct results. There is seriously only one element I need to extract and I'm having trouble with that. Will work on it later though.
+
+### Day 31: August 1st, 2018
+
+**Today's Progress:** Could not figure out how to make the Youtube scraper. I think they have already thought of people trying to scrape their website so they put blocks on it or something. So then I moved on to Twitch to see if I could actively scrape the viewship of the top games. Could not scrape the containers and that is seriously all I need! Then I tried going to newegg and scraping their website for graphics cards and boom! It works but I have already done that! It also worked on the comic book site too but not the big name website for some reason. I'm getting hella annoyed because I know how to scrape but the website or something is blocking me from doing it.
+
+**Thoughts:** I will continue to web scrape but I want valueble info scraped. There are plenty of websites I can scrape though. I just need to find something interesting. I haven't posted a project on github in a cool minute and that needs to change. I just haven't been able to complete any projects lately. :( There's been blockages.

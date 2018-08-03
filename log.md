@@ -225,3 +225,13 @@
 **Link:** https://twitter.com/Garrtacular7/status/1025227404481114114
 
 **Thoughts:** I have many more plans on webscraping. This has just been practice but I am able to understand it very quickly. I know how to analyze HTML but I don't know how to write it. I'm more interested in collecting data and parsing it anyway than making websites, although I know I can make a website easily. So far Python has not let me down with its very flexible design! More Python to come homies.
+
+### Day 33: August 3rd, 2018
+
+**Today's Progress:** So I'm watching Mission Impossible 6 with my grandpa today, so naturally I wanted to web scrape. I went on imdb.com to see user reviews and the title of the review. I scraped both. It took me 15 minutes. I have gotten more fluent in it with practice. I took the data, wrote it to a .csv file and then made a correlation to the reviews. There are more 10 star reviews than anything and it's a sample statistics as well. It was a cool little project if I say so myself!
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/mi6scraper.py
+
+**Link:** https://twitter.com/Garrtacular7/status/1025439964706758656
+
+**Thoughts:** Web scraping is so fun for me and I don't know why. Maybe because I get to extract data that I want while giving the computer commands to do so. I feel like I have power! Python is my favorite language for sure! I like coming up with these little projects, it gives me worth and something to do.

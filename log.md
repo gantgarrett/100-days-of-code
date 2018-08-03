@@ -221,6 +221,7 @@
 **Today's Progress:** Finished the newegg webscraper. I'm very familiar with how to scrape now. It is not hard at all, it's just telling the Python script what to look for. It's actually a lot of fun when it starts working. Now, gather data on the standard deviation of price drops throughout the week would be interesting!
 
 **Link:** https://github.com/gantgarrett/Projects/blob/master/neweggwebscraper.py
+
 **Link:** https://twitter.com/Garrtacular7/status/1025227404481114114
 
 **Thoughts:** I have many more plans on webscraping. This has just been practice but I am able to understand it very quickly. I know how to analyze HTML but I don't know how to write it. I'm more interested in collecting data and parsing it anyway than making websites, although I know I can make a website easily. So far Python has not let me down with its very flexible design! More Python to come homies.

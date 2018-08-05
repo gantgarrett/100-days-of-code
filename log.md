@@ -235,3 +235,9 @@
 **Link:** https://twitter.com/Garrtacular7/status/1025439964706758656
 
 **Thoughts:** Web scraping is so fun for me and I don't know why. Maybe because I get to extract data that I want while giving the computer commands to do so. I feel like I have power! Python is my favorite language for sure! I like coming up with these little projects, it gives me worth and something to do.
+
+### Day 34: August 4th, 2018
+
+**Today's Progress:** I'm going to become a data scientist. It is my calling. I can feel it. I've done a lot of studying today on the subject and I have been practicing with R and Python recently. I woke up wanting to build a website with Django but then when I launched it there was a bunch of compilation errors and I was like nooooooo. So I gave up on that and now I'm diving deep into what it takes to become a data scientist. It's about asking the right questions in terms of data sets, making correlations, tidying up the data, transforming the data, visualizing the data, modeling the data and then finally communicating the data. I need to study and finish my degree so I will be more valuable to a company. It is difficult but I know when my momentum starts building, there is no stopping me. I have learned a lot in these short hours.
+
+**Thoughts:** On the road to become a data scientist and I will have what it takes!

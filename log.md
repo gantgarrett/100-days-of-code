@@ -241,3 +241,11 @@
 **Today's Progress:** I'm going to become a data scientist. It is my calling. I can feel it. I've done a lot of studying today on the subject and I have been practicing with R and Python recently. I woke up wanting to build a website with Django but then when I launched it there was a bunch of compilation errors and I was like nooooooo. So I gave up on that and now I'm diving deep into what it takes to become a data scientist. It's about asking the right questions in terms of data sets, making correlations, tidying up the data, transforming the data, visualizing the data, modeling the data and then finally communicating the data. I need to study and finish my degree so I will be more valuable to a company. It is difficult but I know when my momentum starts building, there is no stopping me. I have learned a lot in these short hours.
 
 **Thoughts:** On the road to become a data scientist and I will have what it takes!
+
+### Day 35: August 6th, 2018
+
+**Today's Progress:** Not very happy with myself that I missed yesterday's coding session. We had a small family renunion so it's understandable and plus it was Sunday. So, I decided to give the Introduction to Statistical Learning another read and I am glad I did. At the end of the chapters there are labs that you can work on and I finished Chapter 2 lab today. It was fun parsing through data and making correlations. It's easier understanding the logic around tidying up data now. I'm eager to learn more!
+
+**Link:** Here is what I made: https://twitter.com/Garrtacular7/status/1026597244093386757
+
+**Thoughts:** Diving deep and trying to get ahead of people. I have the advantage.

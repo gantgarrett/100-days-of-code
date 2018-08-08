@@ -249,3 +249,9 @@
 **Link:** Here is what I made: https://twitter.com/Garrtacular7/status/1026597244093386757
 
 **Thoughts:** Diving deep and trying to get ahead of people. I have the advantage.
+
+### Day 36: August 7th, 2018
+
+**Today's Progress:** Parsed through data sets of TSA Claims and am trying to make correlations between Airline Names and who has the best dispositon. It is for the reddit r/dataisbeautiful challenge. It is fun so far.
+
+**Thoughts:** Need to learn how to parse through data more efficiently and when I am able to do that, I will be golden.

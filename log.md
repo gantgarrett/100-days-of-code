@@ -255,3 +255,15 @@
 **Today's Progress:** Parsed through data sets of TSA Claims and am trying to make correlations between Airline Names and who has the best dispositon. It is for the reddit r/dataisbeautiful challenge. It is fun so far.
 
 **Thoughts:** Need to learn how to parse through data more efficiently and when I am able to do that, I will be golden.
+
+### Day 37: August 14th, 2018
+
+**Today's Progress:** So it's been a week since I've done any coding. I went to DefCon in Las Vegas and that is why I have not done any coding. I don't own a laptop so nothing could have been done. DefCon was a great experience and I am totally going next year.
+
+**Thoughts:** I need to get back on the grind of things. It's almost as if I have lost motivation but I need to be persistent and consistent with my work. No pain no gain.
+
+### Day 38: August 15th, 2018
+
+**Today's Progress:** I think my main focus needs to be R. Or anything relating to data science because that will take me very very far. I know exactly what I need to extract out of the data, it's just being able to extract it and using effective visualizations.
+
+**Thoughts:** I'm continuing to work on the TSA Claims data. I need to merge all of the data sets from Homeland Security website and find which airline has the best approval rating over the years. I wish I had nerdy friends who were into data science as well so I can have some help but I am alone on my computer trying to figure out ways to build up my portfolio. I also lost my glasses and I have no idea where they are and I'm blind so it's hard looking at the computer screen.

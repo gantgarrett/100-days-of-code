@@ -267,3 +267,15 @@
 **Today's Progress:** I think my main focus needs to be R. Or anything relating to data science because that will take me very very far. I know exactly what I need to extract out of the data, it's just being able to extract it and using effective visualizations.
 
 **Thoughts:** I'm continuing to work on the TSA Claims data. I need to merge all of the data sets from Homeland Security website and find which airline has the best approval rating over the years. I wish I had nerdy friends who were into data science as well so I can have some help but I am alone on my computer trying to figure out ways to build up my portfolio. I also lost my glasses and I have no idea where they are and I'm blind so it's hard looking at the computer screen.
+
+### Day 39: August 16th, 2018
+
+**Today's Progress:** Been sort of at a stand still. I need to narrow my focus on a certain subject and practice with that. I know that web scraping and data science go hand in hand so if I can become more efficient at webscraping, I'll be golden. To collect data on a variety of different subjects. Python, webscraping, data visualization with either R or Tableau.
+
+**Thoughts:** Eventually I need to design a personal website to show off my skills. There are just so many tools to build a website that I don't even know which one to use. For now, like I said I just have to focus on Python, webscraping and the data visualization of those scrapes.
+
+### Day 40: August 17th, 2018
+
+**Today's Progress:** Currently reading "Web Scraping with Python" hopefully I can find some useful information in there. There was an example of in the book of some back in 2006 who scraped the web of people posting about "I Feel (fill in the blank)" so the person scraped the whole web somehow and found out generally what people were feeling on the Internet. Genious! I want to conduct an experiment like that. But I need to learn to scrape the entire web... It seems right up my alley though. I would be a valueble asset to a company if I know how to effectively scrape the web. I would save so much time.
+
+**Thoughts:** Am I getting better? I would have to think yes. Even though I took a week break and life and its struggles are bringing me down, I need to focus and stay strong. It feels as if there's crap just piling up but I need to indulge myself in my work and not stray from the path. I love coding and I want to make it a career so it is up to me to see where I can take it. I cannot give up. 4/10 of the way there!

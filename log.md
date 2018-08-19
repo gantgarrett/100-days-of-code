@@ -285,3 +285,11 @@
 **Today's Progress:** I'm literally stuck. I do not know a viable project to conduct. Should I make a website? Should I continue to scrape websites? I want to scrape Youtube for the live view count of lofi hip hop but I do not have access to it. I want to be able to consistently graph the fluctuation of the view count. It would be interesting (at least for me to see). I'm actually getting frustrated with my coding performance lately. I need to focus my energy towards a goal. I'm having trouble finding a certain goal to work towards though. I have ideas but being able to unleash them upon the world is a different story. I'm sticking with data science and webscraping because it is fun but I have not found the information needed to perform such webscrapes on Youtube on websites with Javascript. I haven't made a project in a while either. I think I'm going to go on a walk.
 
 **Thoughts:** I cannot let my frustration overcome by performance. I know I am destined for greatness but it's like I'm in a rut right now. I don't know what to work towards, I mean I do but it reading up on the information to do so. I will continue my studies today and see where I can go. I need motivation, it gets lonely sitting here behind my computer screen with no one else coding with me. I wish I had more friends who were into coding so I can learn from others too and not just Youtube videos.
+
+### Day 42: August 19th, 2018
+
+**Today's Progress:** Okay so I'm getting better. I'm scraping music websites for discographies and the likes. I went on this website called Analog Worship and they have such a scrapable site lol. Full of useful data. I want to scrape the prices on every item they have and make a histogram of where their prices lie between. I want to do this to multiple music retail sites. It's fun for me. I just need to figure out how to parse through a web page that uses the infinite scroll mechanism and tell my scraper to go to the next page. It should not be too hard and I think I need to use Selenium.
+
+**Thoughts: I made a small scraper yesterday that scraped all of Triple-B Record discography. It was fun and it only took my like 5 minutes. Here is the link:
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/tripleBrecordsdiscography.py

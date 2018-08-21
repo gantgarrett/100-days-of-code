@@ -293,3 +293,9 @@
 **Thoughts: I made a small scraper yesterday that scraped all of Triple-B Record discography. It was fun and it only took my like 5 minutes. Here is the link:
 
 **Link:** https://github.com/gantgarrett/Projects/blob/master/tripleBrecordsdiscography.py
+
+### Day 43: August 20th, 2018
+
+**Today's Progress:** Worked really hard today and I still haven't figured out how to download pictures from a website. I understand the concept and I tried so many different attempts yet to no avail the images were not downloading. That is my goal is to figure out how to scrape all of the images off of a website because that would be fun. And scraping Analog Worship's images would be fun because I will get to see some dark underground album artwork and that's all I want. I'm trying to collect data here with scripts and automation and not trying to waste time. Building the scripts takes more time than extracting the data in an old school way but when I become more fluent, the skills I am developing will be critical in any work force. I will have the upper hand.
+
+**Thoughts:** Web scraping is still underway. I haven't graphed anything lately which concerns me and I haven't built a massive project yet. I have to give myself more credit though for showing up to code every day and continue all of my self studying, diving into the subjects that school will not teach you.

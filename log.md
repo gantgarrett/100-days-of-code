@@ -305,3 +305,9 @@
 **Today's Progress:** Thoroughly coming to a close on my small little project that's taking me a while to figure out. I'm currently scraping analogworship.com in hopes to download all of their image files. I'm reading "Automate the Boring Stuff With Python" and manipulating code from the author's take on scraping images off of the web. It's interesting I want to figure out how to do this because it could be very value information I can extract.
 
 **Thoughts:** This is fun I can't wait to finally finish it. I'm learning a lot just from this exercise alone.
+
+### Day 45: August 22nd, 2018
+
+**Today's Progress:** Okay, I haven't finished my project and it's discouraging me. How the heck am I supposed to scrape all the images off the website. I have looked up countless videos and articles on how to do this and I'm getting so close! It may be because of the bandwidth that I'm not able to download all of the images but I doubt it. I just want all of those album covers so badly. On the bright side I automated a scroll down button that scrolls down to the bottom of the page really fast since the website is large. I'm making slow but incremental progress for sure. But at the same time, sort of getting frustrated I can't complete this.
+
+**Thoughts:** This is only for one website too. But I figure my problem is somewhere in the while loop or that I need to create a for loop to each damn container and then through each 'href' element. My program is not loop to each image. I know why too. In "Automate the Boring Stuff with Python" his image scraper only scraped one image then clicked the previous button on the webpage. He did not show us how to scrape multiple images from one page. That is the essence I'm missing but I'm having trouble coming up with the solution.

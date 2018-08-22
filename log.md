@@ -299,3 +299,9 @@
 **Today's Progress:** Worked really hard today and I still haven't figured out how to download pictures from a website. I understand the concept and I tried so many different attempts yet to no avail the images were not downloading. That is my goal is to figure out how to scrape all of the images off of a website because that would be fun. And scraping Analog Worship's images would be fun because I will get to see some dark underground album artwork and that's all I want. I'm trying to collect data here with scripts and automation and not trying to waste time. Building the scripts takes more time than extracting the data in an old school way but when I become more fluent, the skills I am developing will be critical in any work force. I will have the upper hand.
 
 **Thoughts:** Web scraping is still underway. I haven't graphed anything lately which concerns me and I haven't built a massive project yet. I have to give myself more credit though for showing up to code every day and continue all of my self studying, diving into the subjects that school will not teach you.
+
+### Day 44: August 21st, 2018
+
+**Today's Progress:** Thoroughly coming to a close on my small little project that's taking me a while to figure out. I'm currently scraping analogworship.com in hopes to download all of their image files. I'm reading "Automate the Boring Stuff With Python" and manipulating code from the author's take on scraping images off of the web. It's interesting I want to figure out how to do this because it could be very value information I can extract.
+
+**Thoughts:** This is fun I can't wait to finally finish it. I'm learning a lot just from this exercise alone.

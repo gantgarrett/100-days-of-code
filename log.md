@@ -311,3 +311,11 @@
 **Today's Progress:** Okay, I haven't finished my project and it's discouraging me. How the heck am I supposed to scrape all the images off the website. I have looked up countless videos and articles on how to do this and I'm getting so close! It may be because of the bandwidth that I'm not able to download all of the images but I doubt it. I just want all of those album covers so badly. On the bright side I automated a scroll down button that scrolls down to the bottom of the page really fast since the website is large. I'm making slow but incremental progress for sure. But at the same time, sort of getting frustrated I can't complete this.
 
 **Thoughts:** This is only for one website too. But I figure my problem is somewhere in the while loop or that I need to create a for loop to each damn container and then through each 'href' element. My program is not loop to each image. I know why too. In "Automate the Boring Stuff with Python" his image scraper only scraped one image then clicked the previous button on the webpage. He did not show us how to scrape multiple images from one page. That is the essence I'm missing but I'm having trouble coming up with the solution.
+
+### Day 46: August 23rd, 2018
+
+**Today's Progress:** All of a sudden, my script is not writing to the directory. It's saying that it is not a valid directory. I tried looking up the error but my case seems different. I literally do not know why I'm having such trouble with being able to download all the images from analogworhip.com. I know I'm super close it's just something missing in the while loop or my variables aren't selected correctly. It seems as if they selected correctly though. I tried changing up the soup.select() arguments but now it's not even writing to the directory which is concerning for me. The link attachment contains the code.
+
+**Link:** https://twitter.com/Garrtacular7/status/1032721691510628354
+
+**Thoughts:** Getting every closer. I think I'm going to make a post on Stack Overflow to see if anyone can help me out!

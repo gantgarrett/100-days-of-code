@@ -319,3 +319,11 @@
 **Link:** https://twitter.com/Garrtacular7/status/1032721691510628354
 
 **Thoughts:** Getting every closer. I think I'm going to make a post on Stack Overflow to see if anyone can help me out!
+
+### Day 47: August 24th, 2018
+
+**Today's Progress:** Reading "Automate the Boring Stuff with Python" has helped a ton. From analogworship.com, I was able to extract just the title of the artist and got rid of the extra stuff that come with it like the price and if it was a split or not. I used the split() function and I had to read some documentation on it but overall I was able to figure it out. Now I just need to figure out how to tell the program to loop through each item in the list without repeating just the first element 50 times because that is what the program is doing. I need it to loop through the list's index. The problem is probably coming from the 0th index in the for loop somehow. Overall, I should be able to figure out with relative ease. I can't let frustrations overcome my judgement.
+
+**Link:** This is what the program is doing: https://twitter.com/Garrtacular7/status/1033064100937392128
+
+**Thoughts:** I'm stoked with myself that I was able to extract just the title and disregard the rest of the text that I did not need. I'm starting to understand! Python is very diverse and I love emercing myself in it. I have to keep consistent. On the brightside, I tell myself I have only an hour but I end up coding for much longer than that. I also have had a busy week with band stuff but I'm happy with myself that I have stayed so consistent.

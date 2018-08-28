@@ -329,3 +329,21 @@
 **Thoughts:** I'm stoked with myself that I was able to extract just the title and disregard the rest of the text that I did not need. I'm starting to understand! Python is very diverse and I love emercing myself in it. I have to keep consistent. On the brightside, I tell myself I have only an hour but I end up coding for much longer than that. I also have had a busy week with band stuff but I'm happy with myself that I have stayed so consistent.
 
 **UPDATE:** I figured out the for loop. I was still only able to extract the first 50 items on the page... This whole infinite scrolling mechanism is throwing things off!
+
+### Day 48: August 25th, 2018
+
+**Today's Progress:** I figured out the while loop to go to every page!
+
+**Thoughts:** Very happy day since I figured out a solution and I'm happy with my progress so far!
+
+### Day 49: August 26th, 2018
+
+**Today's Progress:** Minimum coding done today. Mainly just review
+
+**Thoughts:** I want to make Youtube tutorials!
+
+### Day 50: August 28th, 2018
+
+**Today's Progress:** Working on completing the web scraper so then I can make a Youtube video on it for a tutorial! The way I figured out parsing through each page is pretty genius if I do say so myself. I set it through a while loop and concatenate a number in the form of a string so the request function can pick up on it. Then inside the while loop I have a for loop doing the scraping! So all in all good times. I'm hitting an error because Python is not recognizing some characters. They are foreign characters so it is not writing to the csv file. So i need to make an exception that when the program runs across these, then either skip them or switch up the characters.
+
+**Thoughts:** I need to finish this so I can make the video!

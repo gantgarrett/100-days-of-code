@@ -347,3 +347,9 @@
 **Today's Progress:** Working on completing the web scraper so then I can make a Youtube video on it for a tutorial! The way I figured out parsing through each page is pretty genius if I do say so myself. I set it through a while loop and concatenate a number in the form of a string so the request function can pick up on it. Then inside the while loop I have a for loop doing the scraping! So all in all good times. I'm hitting an error because Python is not recognizing some characters. They are foreign characters so it is not writing to the csv file. So i need to make an exception that when the program runs across these, then either skip them or switch up the characters.
 
 **Thoughts:** I need to finish this so I can make the video!
+
+### Day 51: August 29th, 2018
+
+**Today's Progress:** All right so I am on the right track to image scraping. I'm using the same logic as I used for the image scraper and I'm expecting good results. The only problem I am seeming to have is creating the directory. The program is not recognizing the path I'm giving it and it's giving me an error of directory not found. It's such a small bug but I have to know what's going on behind that error. It should take too much more dabbling with though.
+
+**Thoughts:** So my headset mic is a shit mic for recording videos or I just need to figure out how to calibrate it. Once that is done, I'm on the road to recording tutorial videos for scraping and the likes! Hopefully it can all workout!

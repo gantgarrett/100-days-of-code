@@ -359,3 +359,9 @@
 **Today's Progress:** Listening to Local Man's Awful Podcast and coding. It's awesome hearing my friends talk on an outlet such as a podcast. Anyway, this day has just been looking up information about how to add images to a directory. I can't quite figure it out yet. I want to be able to figure it out because I want to make a text scraping tutorial and an image scraping tutorial. I should have coded at the beginning of the day but I did not do that which I should have. I also have not been keeping a consistent schedule with yoga and exercising and I need to hop back on that.
 
 **Thoughts:** It has been a hecktic week but that should be no excuse. I still find at least an hour to code every day but I need to make a schedule. Like exercise at a certain time and code at a certain time. I also need to get a mic to start recording the videos because I have a big vision for them and I want them to be fun and not as boring as other tutorial videos.
+
+### Day 53: August 31st, 2018
+
+**Today's Progress:** Next project is to scrape all of Amoeba for their releases. There are 6000 plus pages that can be scraped so it should be fun! A ton of scrapeable data! I'm already underway of trying to perform the task. Let's do this!
+
+**Thoughts:** This is probably going to be my next obsession and then I can make a video on it.

@@ -365,3 +365,9 @@
 **Today's Progress:** Next project is to scrape all of Amoeba for their releases. There are 6000 plus pages that can be scraped so it should be fun! A ton of scrapeable data! I'm already underway of trying to perform the task. Let's do this!
 
 **Thoughts:** This is probably going to be my next obsession and then I can make a video on it.
+
+### Day 54: September 1st, 2018
+
+**Today's Progress:** Continued working on the project. I need to figure out how to scrape 'tr' from a table on their website. The 'tr' contains everything need to scrape, so when I'm able to extract them, we'll be golden. It's looking like I need to use lxml but everytime I try to import it, it gives me an error 'no module found' it's pretty annoying. I tried uninstalling it, updating it, and reinstalling it. Nothing seems to work. I will have to fiddle with it later some more.
+
+**Thoughts:** This is a good data science project. Implementing a large data set and using scraping to extract everything from a music store seems fun. It just needs to be executed now.

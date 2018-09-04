@@ -377,3 +377,9 @@
 **Today's Progress:** Inching ever closer to figuring out how to image scrape. When I can figure out both image and text scraping, we are golden. It is fun because I'm on storenvy scraping all images from the site on a certain record label. The label has interesting images. 
 
 **Thoughts:** It's been a journey but I'm getting so much better at it. I'm thinking more programmatically and it's almost clicking. I can feel it. There's still a lot I have to learn but it's coming so much easier. I can't wait for school to start so I can kick ass in my coding classes.
+
+### Day 56: September 4th, 2018
+
+**Today's Progress:** FINALLY! I figured out how to scrape images! My script is super small too like no more than 25 lines of code. Now I can use this as a template and be able to scrape even more images from even more websites.
+
+**Thoughts:** It's about to get serious people... it's about to get serious...

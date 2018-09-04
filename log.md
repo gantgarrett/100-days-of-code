@@ -371,3 +371,9 @@
 **Today's Progress:** Continued working on the project. I need to figure out how to scrape 'tr' from a table on their website. The 'tr' contains everything need to scrape, so when I'm able to extract them, we'll be golden. It's looking like I need to use lxml but everytime I try to import it, it gives me an error 'no module found' it's pretty annoying. I tried uninstalling it, updating it, and reinstalling it. Nothing seems to work. I will have to fiddle with it later some more.
 
 **Thoughts:** This is a good data science project. Implementing a large data set and using scraping to extract everything from a music store seems fun. It just needs to be executed now.
+
+### Day 55: September 3rd, 2018
+
+**Today's Progress:** Inching ever closer to figuring out how to image scrape. When I can figure out both image and text scraping, we are golden. It is fun because I'm on storenvy scraping all images from the site on a certain record label. The label has interesting images. 
+
+**Thoughts:** It's been a journey but I'm getting so much better at it. I'm thinking more programmatically and it's almost clicking. I can feel it. There's still a lot I have to learn but it's coming so much easier. I can't wait for school to start so I can kick ass in my coding classes.

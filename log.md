@@ -383,3 +383,11 @@
 **Today's Progress:** FINALLY! I figured out how to scrape images! My script is super small too like no more than 25 lines of code. Now I can use this as a template and be able to scrape even more images from even more websites.
 
 **Thoughts:** It's about to get serious people... it's about to get serious...
+
+### Day 57: September 5th, 2018
+
+**Today's Progress:** FINALLY my project of scraping all the images from analogworship is complete! I literally just downloaded 1600 + images from the websites catalog with complete and utter ease. I finally figured it out and it feels great! All of the images are in a folder nice and neat and it's all black metal or noise records album art. The script is actually very short and here it is.
+
+**Link:** https://github.com/gantgarrett/Projects/blob/master/analogworshipimagescraper.py
+
+**Thoughts:** Now I'm just waiting for my book to come in, "Practical Web Scraping for Data Science" and I can't wait to dive into that. I mean the work I am doing is practical but I'm ready to delve even further. Plus the name of the book stuck out to me like a sore thumb and it spoke to me on so many levels. Can't wait!

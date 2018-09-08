@@ -391,3 +391,17 @@
 **Link:** https://github.com/gantgarrett/Projects/blob/master/analogworshipimagescraper.py
 
 **Thoughts:** Now I'm just waiting for my book to come in, "Practical Web Scraping for Data Science" and I can't wait to dive into that. I mean the work I am doing is practical but I'm ready to delve even further. Plus the name of the book stuck out to me like a sore thumb and it spoke to me on so many levels. Can't wait!
+
+### Day 58: September 6th, 2018
+
+**Today's Progress:** Started recording for Youtube.
+
+**Thoughts:** T'was fun.
+
+### Day 59: September 7th, 2018
+
+**Today's Progress:** Released my first web scraping video on Youtube. It was all about scraping multiple images from a website.
+
+**Link:** https://www.youtube.com/watch?v=CNB6UPSOeSw
+
+**Thoughts:** It was dank and it already has 3 likes on it! :) 

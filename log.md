@@ -405,3 +405,33 @@
 **Link:** https://www.youtube.com/watch?v=CNB6UPSOeSw
 
 **Thoughts:** It was dank and it already has 3 likes on it! :) 
+
+### Day 60: September 9th, 2018
+
+**Today's Progress:** Started another video!
+
+**Thoughts:** It seems as if making these videos are pretty much just for me!
+
+### Day 61: September 10th, 2018
+
+**Today's Progress:** Recorded another video and it was just me messing around R and web scraping.
+
+**Link:** https://www.youtube.com/watch?v=v9wYETTPjdc&t=492s
+
+**Thoughts:** I think they are a blast to make!
+
+### Day 62: September 11th, 2018
+
+**Today's Progress:** Another video created!
+
+**Link:** https://www.youtube.com/watch?v=7xyFxAocVUU&t=35s
+
+**Thoughts:** Check it out! :)
+
+### Day 63: September 12th, 2018
+
+**Today's Progress:** Started working with Django and I'm having a blast! The book I'm reading is on hecka fleek!
+
+**Link:** https://youtu.be/8_N9yFq7520
+
+**Thoughts:** Can't wait to start developing web skills! It's actually a lot of fun and I don't know why! LOL!

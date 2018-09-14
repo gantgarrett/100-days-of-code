@@ -435,3 +435,17 @@
 **Link:** https://youtu.be/8_N9yFq7520
 
 **Thoughts:** Can't wait to start developing web skills! It's actually a lot of fun and I don't know why! LOL!
+
+### Day 64: September 13th, 2018
+
+**Today's Progress:** Filmed more footage of coding. I have 2 subscribers already! Whoot! I'm reading this book about the Django framework and it's great. I'm copying and pasting a lot of code but it is helping me understand. I am overwhelmed but this is only the third hour of me messing around the Django so I can't beat myself up too bad.
+
+**Link:** https://www.youtube.com/watch?v=XKEN-HMtO70&t=6s
+
+**Thoughts:** Going to continue to post videos!
+
+### Day 65: September 14, 2018
+
+**Today's Progress:** I woke up early today, drank some water, played Doom and then started filming and coding. Filming helps me to be accountable for my progress and it is helping. I'm making a blog website!
+
+**Thoughts:** Going to upload the video to YouTube now. In all reality it is not terribly interesting content but it is just for me! If people wanna watch they can watch!

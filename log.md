@@ -449,3 +449,33 @@
 **Today's Progress:** I woke up early today, drank some water, played Doom and then started filming and coding. Filming helps me to be accountable for my progress and it is helping. I'm making a blog website!
 
 **Thoughts:** Going to upload the video to YouTube now. In all reality it is not terribly interesting content but it is just for me! If people wanna watch they can watch!
+
+### Day 66: September 17th, 2018
+
+**Today's Progress:** So I had to miss two days over the weekend because I was giggin' and going to show and writing a new demo but I still managed to get coding in!
+
+**Link:** https://www.youtube.com/watch?v=n7xRCeIkY2Q
+
+**Thoughts:** Youtube is a great platform to keep myself accountable!
+
+### Day 67: September 18th, 2018
+
+**Today's Progress:** Working along in my book and just scratching the surface with the Django framework! But it is a lot of fun yet challenging!
+
+**Link:** https://www.youtube.com/watch?v=gkfZkeq94gA&t=348s
+
+**Thoughts:** It's working, it's working!
+
+### Day 68: September 19th, 2018
+
+**Today's Progress:** Still continuing to work in my book and film all of my errors and frustration
+
+**Link:** https://www.youtube.com/watch?v=ukYuVOIOw-k&t=100s
+
+**Thoughts:** More filming and streaming and tutorials to come!
+
+### Day 69: September 20th, 2018
+
+**Today's Progress:** Okay, so I haven't updated this in a while and that is why all of the previous entries are short. So today, right now, which is 7:03am I am happy to say that school is about to start and it's going to be a great quarter! I got my job back as SI Leader and I will be working under Dr. Murphy. It's real cool. I thought Murphy was a great teacher when it came to CSE 330. So having him teach the intro class should be great! I continued to film my progress of working through my book and it is a lot of fun I just can't copy and paste text which is annoy when I'm having to type long URLs and such but such is life.
+
+**Thoughts:** I'm more than halfway through the book. I also had orientation yesterday for SI and I met someone who needed work done with R. I was like, "I'm your man!" So hopefully the ball gets rolling on that. It has to do with text analysis of interviews and I was like yes a data science project! I will do it for free, do a good job and then hopefully get recommend by her to more and more people. Happy days to come.

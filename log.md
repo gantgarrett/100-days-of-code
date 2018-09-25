@@ -479,3 +479,27 @@
 **Today's Progress:** Okay, so I haven't updated this in a while and that is why all of the previous entries are short. So today, right now, which is 7:03am I am happy to say that school is about to start and it's going to be a great quarter! I got my job back as SI Leader and I will be working under Dr. Murphy. It's real cool. I thought Murphy was a great teacher when it came to CSE 330. So having him teach the intro class should be great! I continued to film my progress of working through my book and it is a lot of fun I just can't copy and paste text which is annoy when I'm having to type long URLs and such but such is life.
 
 **Thoughts:** I'm more than halfway through the book. I also had orientation yesterday for SI and I met someone who needed work done with R. I was like, "I'm your man!" So hopefully the ball gets rolling on that. It has to do with text analysis of interviews and I was like yes a data science project! I will do it for free, do a good job and then hopefully get recommend by her to more and more people. Happy days to come.
+
+### Day 70: September 21st, 2018
+
+**Today's Progress:** Filmed a YouTube video and it felt good!
+
+**Thoughts:** About to start school next week and I'm excited to do all of my programming classes!
+
+### Day 71: September 22nd, 2018
+
+**Today's Progress:** Filmed another video but I'm starting to think that they are not a good idea because I'll just code for one hour only and think that it's okay when I need to dedicated more hours!
+
+**Thoughts:** I still need to do some sort of footage though for the sake of YouTube content!
+
+### Day 72: Septmeber 23rd, 2018
+
+**Today's Progresss:** Okay, I bought a laptop and install Ubuntu on it! It's what I'm typing on now! So far I love it, I thought the installation process was going to be a lot harder but it wasn't!
+
+**Thoughts:** So far, installing applications are through the terminal. No wonder why people stray away from this OS... It's not difficult if you know your way around a computer!
+
+### Day 73: September 24th, 2018
+
+**Today's Progress:** I'm here at school right now on pretty much a 12 hour gap. My class starts in 30 minutes and it's called JAVA programming which I'm really excited for. I installed the IDE and installed the latest version of JAVA so I'm all set. I'm super pumped to see what it's all about!
+
+**Thoughts:** The indie hacker episode from code newbies is very inspiring! I feel like it's right up my alley. I really need to find a project to work on and dedicate my time. Try to build a product that I would buy myself. I usually buy games but mainly big gameI could do a Craigslist scraper but that has already been done. I just need to find the hole in the market and pinpoint it and start building. I really do love programming so being able to strengthen my technically skills is what I need to do.

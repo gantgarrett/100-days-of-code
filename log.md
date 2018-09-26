@@ -503,3 +503,15 @@
 **Today's Progress:** I'm here at school right now on pretty much a 12 hour gap. My class starts in 30 minutes and it's called JAVA programming which I'm really excited for. I installed the IDE and installed the latest version of JAVA so I'm all set. I'm super pumped to see what it's all about!
 
 **Thoughts:** The indie hacker episode from code newbies is very inspiring! I feel like it's right up my alley. I really need to find a project to work on and dedicate my time. Try to build a product that I would buy myself. I usually buy games but mainly big gameI could do a Craigslist scraper but that has already been done. I just need to find the hole in the market and pinpoint it and start building. I really do love programming so being able to strengthen my technically skills is what I need to do.
+
+### Day 74: September 25th, 2018
+
+**Today's Progress:** Okay so this challenge has gotten a lot easier since I'm basically forced to program now because of all of my classes. Pretty much each class I am taking is all about programming which I am so ready for. I finally made it to all my upper division courses and I'm inching ever forward towards graduation. I basically did lab work for 3 and a half hours trying to operate on a virtual machine. It was fun yet challenging.
+
+**Thoughts:** School's been a lot of fun so far. I just sucks that I ruined my reputation from dating Jackie and now I don't even want to partake in club activities. Oh well, that's how it all works out. My rep's not ruined it's just I'm all paranoid now. I don't want to run into certain people on campus but literally that's just how it goes. Some internal struggle stuff that I need to let go.
+
+### Day 75: September 26th, 2018
+
+**Today's Progress:** I wrote the assigned Java programs for my Java programming class with ease. What would programmers do without the Google?
+
+**Thoughts:** It's so rewarding finishing a working program. Even though they are small programs, I'm going to induldge in every W I earn!

@@ -515,3 +515,15 @@
 **Today's Progress:** I wrote the assigned Java programs for my Java programming class with ease. What would programmers do without the Google?
 
 **Thoughts:** It's so rewarding finishing a working program. Even though they are small programs, I'm going to induldge in every W I earn!
+
+### Day 76: Septmeber 27th, 2018
+
+**Today;s Progress:** My scripting class is going great so far. It's kind of like a jigsaw puzzle and trouble shooting is fun yet frustrating but it feels soooo good once you figure out the problem. It gives me so much satisfaction like no other. I also had a good day teaching C++. Teaching coding also brings me such satisfaction.
+
+**Thoughts:** I have learned so much over this journey. It's excruatiatingly fantastic. I have so much more to learn too!
+
+### Day 77: September 28th, 2018
+
+**Today's Progress:** Dabbled with WireShark because my net working class has me curious. I'm currently sitting in a coffee shop wiresharking lol. I don't know how to make sense of the data though. I will look more into it. I should be studying but I was like nah Wireshark.
+
+**Thoughts:** I need to understand these concepts so I can be more secure and learn how t fight off attackers. It's super d dupper fun.

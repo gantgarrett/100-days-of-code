@@ -527,3 +527,15 @@
 **Today's Progress:** Dabbled with WireShark because my net working class has me curious. I'm currently sitting in a coffee shop wiresharking lol. I don't know how to make sense of the data though. I will look more into it. I should be studying but I was like nah Wireshark.
 
 **Thoughts:** I need to understand these concepts so I can be more secure and learn how t fight off attackers. It's super d dupper fun.
+
+### Day 78: September 29th, 2018
+
+**Today's Progress:** Worked on bash scripts today and it was cool. Bash is the most complex language I have used yet. There are just a million different commands you can perform. It is fun though so I'm going to complete that my g.
+
+**Thoughts:** To be fluent in bash is to be fluent in everything lol.
+
+### Day 79: September 30th, 2018
+
+**Today's Progress:** Worked on some webscrapers for imdb to check the ratings of Spongebob by season. I'm still manipulating the data so it doesn't look pretty but it will soon.
+
+**Thoughts:** A thought dawned on me that I need to improve my tech skills because it's something I can sell myself on and I need to make money. Learning software engineering is important and I will take it far.

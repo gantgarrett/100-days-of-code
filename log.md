@@ -539,3 +539,9 @@
 **Today's Progress:** Worked on some webscrapers for imdb to check the ratings of Spongebob by season. I'm still manipulating the data so it doesn't look pretty but it will soon.
 
 **Thoughts:** A thought dawned on me that I need to improve my tech skills because it's something I can sell myself on and I need to make money. Learning software engineering is important and I will take it far.
+
+### Day 80 - 100: December 2nd, 2018
+
+**Today's Progress:** Okay so I finished the challenge but I stopped logging my progress in here starting at day 80... I lost the motivation for true self reflection. It's true. I lost touch with myself for a bit and I'm strugglilng with what the future holds. I have the imposter syndrome hard right now. When school started kicking in more, I started writing less in here. It sucks because  I am learning but not at the rate with which I like. I feel regression. Yet I have to get over this obsticle.
+
+**Thoughts:** Even though I didn't start writing in here, I did post to twitter my progress and I have gotten a positive response so far. So now I need to keep progressing.

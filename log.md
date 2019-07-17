@@ -22,3 +22,23 @@ All I know is that the program will be the most efficient if I use the AdWords A
 
 I want this program to be efficient so that's why I need to use the API. I need to get this down.
 
+### Day 2: July 16th, 2019
+
+**Today's Progress:**
+
+Today I coded for about 2 hours and I got a lot done.
+
+I'm building the autocomplete scraper just like Keyword Researcher but I will make my software more user friendly.
+
+I'm practically stealing Keyword Researcher's functionality. I want to make my own version so I won't have to pay for Keyword Researcher. 
+
+It's legitimate Google data too which is very useful. I'm using Python and I need to be able to parse JSON data.
+
+**Thoughts:**
+
+This will take some time to complete but it's a lot of fun so far. I'm glad it's actual data that can be useful. :) 
+
+I LOVE data scraping!
+
+
+

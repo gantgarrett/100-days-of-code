@@ -40,5 +40,21 @@ This will take some time to complete but it's a lot of fun so far. I'm glad it's
 
 I LOVE data scraping!
 
+### Day 3: July 17th, 2019
+
+**Today's Progress:**
+
+I figured out how to make a function for the search query and append all the searches to a list.
+
+Now I need to figure out how to take a multidimensional list and put it into one column using pandas.
+
+Once I figure that out, it's basically game over.
+
+I'm proud, I actually made a working function and used StackOverflow to figure it out. And it only took me an hour.
+
+A lot of trial and error but it's chill.
+
+I'm having fun with this knocking it out piece by piece.
+
 
 

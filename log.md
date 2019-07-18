@@ -56,5 +56,21 @@ A lot of trial and error but it's chill.
 
 I'm having fun with this knocking it out piece by piece.
 
+### Day 4: July 18th, 2019
+
+**Today's Progress:**
+
+Getting better at wrangling data and making clean code.
+
+I figured out how to make multiple columns into one column and all with very little code.
+
+It's fun when everything works out. 
+
+Now I need to figure out how to use the Google Adwords API so I can get search volume data back. That is the most important aspect.
+
+I asked someone on Fiverr if they are able to do Google Adwords API setup. Hopefully it all works out.
+
+Chipping away little by little. :)
+
 
 

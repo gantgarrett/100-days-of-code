@@ -72,5 +72,15 @@ I asked someone on Fiverr if they are able to do Google Adwords API setup. Hopef
 
 Chipping away little by little. :)
 
+### Day 5: July 19th, 2019
 
+**Today's Progress:**
+
+I checked my progress today and I was mad at myself. For the past couple days I have only been coding for a minimum of an hour. I need to change up my habit.
+
+I pretty much finished my little program. I haven't gotten the chance to find out about search volume. But that's okay.
+
+I'm trying to figure out what website I could make. I love making websites but I need a purpose. I could make that free keyword research tool and make it a web app. That would be super good for the resume. I think I'm going to try that! Buy a domain and make it super user friendly!
+
+That would get me lots of traffic! So I need to learn how to deploy websites like ubersuggest and all of that stuff.
 

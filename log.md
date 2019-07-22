@@ -84,3 +84,15 @@ I'm trying to figure out what website I could make. I love making websites but I
 
 That would get me lots of traffic! So I need to learn how to deploy websites like ubersuggest and all of that stuff.
 
+### Day 6: July 22nd, 2019
+
+**Today's Progress:**
+
+Tried installing Flask and Django but I am running into roadblocks. 
+
+It will have to be for another day because I am sicker than swine right now. Head ache and such. 
+
+But learning and trouble shooting is all I can ask for on this one.
+
+
+
